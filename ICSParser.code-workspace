@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "ICSParser",
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {}
+	}
+}
